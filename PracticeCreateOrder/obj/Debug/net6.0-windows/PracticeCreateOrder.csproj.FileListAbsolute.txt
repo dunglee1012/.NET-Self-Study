@@ -114,3 +114,4 @@ C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\Pr
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCreateOrder\obj\Debug\net6.0-windows\PracticeCreateOrder.pdb
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCreateOrder\obj\Debug\net6.0-windows\PracticeCreateOrder.genruntimeconfig.cache
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCreateOrder\obj\Debug\net6.0-windows\ref\PracticeCreateOrder.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCreateOrder\bin\Debug\net6.0-windows\appsettings.json

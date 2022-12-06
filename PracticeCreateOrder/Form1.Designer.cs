@@ -41,8 +41,8 @@
             this.tbShipName = new System.Windows.Forms.TextBox();
             this.tbShipAddress = new System.Windows.Forms.TextBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.rqShipDate = new System.Windows.Forms.DateTimePicker();
-            this.button1 = new System.Windows.Forms.Button();
+            this.dtpShipDate = new System.Windows.Forms.DateTimePicker();
+            this.btnCreateOrder = new System.Windows.Forms.Button();
             this.lbProducts = new System.Windows.Forms.ListBox();
             this.label7 = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -144,21 +144,22 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-            // rqShipDate
+            // dtpShipDate
             // 
-            this.rqShipDate.Location = new System.Drawing.Point(159, 223);
-            this.rqShipDate.Name = "rqShipDate";
-            this.rqShipDate.Size = new System.Drawing.Size(200, 23);
-            this.rqShipDate.TabIndex = 4;
+            this.dtpShipDate.Location = new System.Drawing.Point(159, 223);
+            this.dtpShipDate.Name = "dtpShipDate";
+            this.dtpShipDate.Size = new System.Drawing.Size(200, 23);
+            this.dtpShipDate.TabIndex = 4;
             // 
-            // button1
+            // btnCreateOrder
             // 
-            this.button1.Location = new System.Drawing.Point(159, 392);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(167, 23);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Create Order";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnCreateOrder.Location = new System.Drawing.Point(159, 392);
+            this.btnCreateOrder.Name = "btnCreateOrder";
+            this.btnCreateOrder.Size = new System.Drawing.Size(167, 23);
+            this.btnCreateOrder.TabIndex = 5;
+            this.btnCreateOrder.Text = "Create Order";
+            this.btnCreateOrder.UseVisualStyleBackColor = true;
+            this.btnCreateOrder.Click += new System.EventHandler(this.btnCreateOrder_Click);
             // 
             // lbProducts
             // 
@@ -184,8 +185,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(641, 450);
             this.Controls.Add(this.lbProducts);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.rqShipDate);
+            this.Controls.Add(this.btnCreateOrder);
+            this.Controls.Add(this.dtpShipDate);
             this.Controls.Add(this.tbShipAddress);
             this.Controls.Add(this.tbShipName);
             this.Controls.Add(this.cbShipCompanyName);
@@ -200,6 +201,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -219,8 +221,8 @@
         private TextBox tbShipName;
         private TextBox tbShipAddress;
         private ContextMenuStrip contextMenuStrip1;
-        private DateTimePicker rqShipDate;
-        private Button button1;
+        private DateTimePicker dtpShipDate;
+        private Button btnCreateOrder;
         private ListBox lbProducts;
         private Label label7;
     }
