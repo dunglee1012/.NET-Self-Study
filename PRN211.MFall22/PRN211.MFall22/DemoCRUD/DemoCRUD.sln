@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoCRUD", "DemoCRUD.csproj", "{49C76F47-AA7E-4133-895D-15C93FCCAAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCRUD_FORM", "..\..\..\PracticeCRUD_FORM\PracticeCRUD_FORM.csproj", "{1829F12D-E51F-406C-AEEB-7E0BDE30C39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C76F47-AA7E-4133-895D-15C93FCCAAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C76F47-AA7E-4133-895D-15C93FCCAAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C76F47-AA7E-4133-895D-15C93FCCAAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C76F47-AA7E-4133-895D-15C93FCCAAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1829F12D-E51F-406C-AEEB-7E0BDE30C39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1829F12D-E51F-406C-AEEB-7E0BDE30C39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1829F12D-E51F-406C-AEEB-7E0BDE30C39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1829F12D-E51F-406C-AEEB-7E0BDE30C39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {477141A6-C412-4332-AAE6-6C58DF99C43B}
+	EndGlobalSection
+EndGlobal

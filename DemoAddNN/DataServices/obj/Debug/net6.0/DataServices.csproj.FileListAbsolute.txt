@@ -1,0 +1,28 @@
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\bin\Debug\net6.0\DataServices.deps.json
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\bin\Debug\net6.0\DataServices.runtimeconfig.json
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\bin\Debug\net6.0\DataServices.dll
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\bin\Debug\net6.0\DataServices.pdb
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.csproj.AssemblyReference.cache
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.AssemblyInfoInputs.cache
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.AssemblyInfo.cs
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.csproj.CoreCompileInputs.cache
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.dll
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\refint\DataServices.dll
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.pdb
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\DataServices.genruntimeconfig.cache
+D:\CodeDemo\PRN211\PRN211.MFall22\DataServices\obj\Debug\net6.0\ref\DataServices.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\bin\Debug\net6.0\DataServices.deps.json
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\bin\Debug\net6.0\DataServices.runtimeconfig.json
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\bin\Debug\net6.0\DataServices.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\bin\Debug\net6.0\DataServices.pdb
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.csproj.AssemblyReference.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.AssemblyInfoInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.AssemblyInfo.cs
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.csproj.CoreCompileInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\refint\DataServices.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.pdb
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\DataServices.genruntimeconfig.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\DemoAddNN\DataServices\obj\Debug\net6.0\ref\DataServices.dll
