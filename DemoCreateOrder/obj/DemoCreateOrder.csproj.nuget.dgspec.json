@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\DemoCreateOrder.csproj": {}
+    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\DemoCreateOrder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\DemoCreateOrder.csproj": {
+    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\DemoCreateOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\DemoCreateOrder.csproj",
+        "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\DemoCreateOrder.csproj",
         "projectName": "DemoCreateOrder",
-        "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\DemoCreateOrder.csproj",
+        "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\DemoCreateOrder.csproj",
         "packagesPath": "C:\\Users\\leeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\obj\\",
+        "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

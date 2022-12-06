@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7bbuMywYq5uJPR93/eycXKab2I5LLZGGUA3acS2leDWyeqXUWt05CcakQ9TgvmtrESXwpD+Xsy7IYm3g5xhvEQ==",
+  "dgSpecHash": "PATwnRm6SKXY8ndUiSYd6tpY691PP8Iw8+DktvAFLjuWuF0MJJUV5hpDEwc2bEskz/TDBwFC58rKRQGsURIctw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoCreateOrder\\DemoCreateOrder.csproj",
+  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoCreateOrder\\DemoCreateOrder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leeng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
