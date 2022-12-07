@@ -9,7 +9,7 @@ namespace FirstWebApp.Controllers
 
         }
 
-        //route:   /Product/List/10/ABC
+        //route:   /Product/List/0/ABC
         public string List(int id, string name)
         {
             return $"Category: {id},name: {name}";
