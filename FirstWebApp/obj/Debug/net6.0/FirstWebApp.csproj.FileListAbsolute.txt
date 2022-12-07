@@ -24,3 +24,5 @@ C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\Fi
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp\obj\Debug\net6.0\FirstWebApp.pdb
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp\obj\Debug\net6.0\FirstWebApp.genruntimeconfig.cache
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp\obj\Debug\net6.0\ref\FirstWebApp.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp\obj\Debug\net6.0\FirstWebApp.RazorAssemblyInfo.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp\obj\Debug\net6.0\FirstWebApp.RazorAssemblyInfo.cs

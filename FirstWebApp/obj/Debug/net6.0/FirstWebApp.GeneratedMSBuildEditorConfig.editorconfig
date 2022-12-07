@@ -15,3 +15,11 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\FirstWebApp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/leeng/Documents/Visual Studio 2022/AllProject/PRN211/.NET-Self-Study/FirstWebApp/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leeng/Documents/Visual Studio 2022/AllProject/PRN211/.NET-Self-Study/FirstWebApp/Views/Product/Norule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOb3J1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

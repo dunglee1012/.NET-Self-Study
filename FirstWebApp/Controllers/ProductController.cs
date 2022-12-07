@@ -14,5 +14,13 @@ namespace FirstWebApp.Controllers
         {
             return $"Category: {id},name: {name}";
         }
+
+        public IActionResult Detail(int id, string name)
+        {
+            ViewData["id"] = id;
+            ViewBag.Name = name;
+            return View();//tra ve view mac dinh
+            //return View("/View/Norule.cshtml");
+        }
     }
 }
