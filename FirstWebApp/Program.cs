@@ -13,7 +13,7 @@ internal class Program
             );
         app.MapControllerRoute(
            name: "default",
-           pattern: "/{controller=Product}/{action=Index}/{id}/{name}"
+           pattern: "/{controller=Product}/{action=Index}/{id}/{name=ABC}"
            );
 
         //app.MapGet("/", () => "Hello World!");
