@@ -34,7 +34,9 @@ namespace PracticeCRUD_FORM.Logics
         {
             using (var context = new APContext())
             {
-                CourseSchedule cs = context.CourseSchedules.FirstOrDefault(x => x.TeachingScheduleId == courseSchedule.TeachingScheduleId);
+                CourseSchedule cs = context.CourseSchedules
+                    .FirstOrDefault(x =>
+                    x.TeachingScheduleId == courseSchedule.TeachingScheduleId);
                 if(cs != null)
                 {
                     cs.TeachingScheduleId = courseSchedule.TeachingScheduleId;
@@ -49,13 +51,6 @@ namespace PracticeCRUD_FORM.Logics
             }
         }
 
-        public void Delete(int courseScheduleId)
-        {
-              using(var context = new APContext())
-            {
-                CourseSchedule cs = context.CourseSchedules
-                    .Include
-            }
-        }
+        
     }
 }

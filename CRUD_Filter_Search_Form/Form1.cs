@@ -69,9 +69,6 @@ namespace CRUD_Filter_Search_Form
             cbCampus.SelectedValue = currentCourse.CampusId;
             cbInstructor.SelectedValue = currentCourse.InstructorId;
             cbTerms.SelectedValue = currentCourse.TermId;
-
-
-
         }
 
         private Course GetCourseInfo()

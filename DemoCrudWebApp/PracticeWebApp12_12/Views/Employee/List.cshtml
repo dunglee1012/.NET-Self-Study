@@ -1,0 +1,96 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using PracticeWebApp12_12.Models
+@model List<Employee>
+
+<div>
+    <div>
+        <div>
+            <div>
+                <a href="/Employee/Add"> Add new Product</a>
+            </div>
+            <form action="/Employee/List" method="post">
+                <table>
+                    <tr>
+                        <td>Birth Year</td>
+                        @*<td>
+                        <select name="birthYear">
+                        <option value="" @(String.IsNullOrEmpty(ViewBag.CurBirthYear)?"selected":"")>All Year</option>
+                        @foreach (Employee e in ViewBag.Eplo)
+                        {
+                        <option value="@e.EmployeeId" @((e.BirthDate == ViewBag.CurBirthYear)?"selected":"")> @e.BirthDate</option>
+                        }
+                        </select>
+                        </td>*@
+                    </tr>
+                    <tr>
+                        <td>Country</td>
+                        <td>
+                            <select name="country">
+                                <option value="" @( (String.IsNullOrEmpty(ViewBag.CurCountry))?"selected":"")>All Country</option>
+                                @foreach (string e in ViewBag.listCo)
+                                {
+                                    <option value="@e" @((e == ViewBag.CurCountry)?"selected":"")> @e</option>
+                                }
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Report To</td>
+                        <td>
+                            <select name="reportedTo">
+                                <option value="0" @( (ViewBag.CurReportedTo)==0?"selected":"")>All Reported To</option>
+                                @foreach (int e in ViewBag.listRe)
+                                {
+                                    <option value="@e" @((e == ViewBag.CurReportedTo)?"selected":"")> @e</option>
+                                }
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="Filter"/>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+
+        </div>
+        <div>
+            @if (Model.Count > 0)
+            {
+                <h1>List of Employee</h1>
+                <table>
+                    <tr>
+                        <th>Id</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Birth Date</th>
+                        <th>Action</th>
+                    </tr>
+                    @foreach (Employee e in Model)
+                    {
+                        <tr>
+                            <td>@e.EmployeeId</td>
+                            <td>@e.FirstName</td>
+                            <td>@e.LastName)</td>
+                            <td>@(Convert.ToDateTime(e.BirthDate).Year.ToString())</td>
+                            <td>
+                                <a href="/Employee/Delete?@e.EmployeeId"> Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>Khong co order nao</p>
+            }
+        </div>
+
+
+    </div>
+</div>

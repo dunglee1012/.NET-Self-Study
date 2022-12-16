@@ -57,3 +57,13 @@ C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\PracticeCRUD_FORM\
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\PracticeCRUD_FORM\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.csproj.CopyComplete
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\PracticeCRUD_FORM\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.csproj.AssemblyReference.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.Form1.resources
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.csproj.GenerateResource.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.AssemblyInfoInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.AssemblyInfo.cs
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.csproj.CoreCompileInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\refint\PracticeCRUD_FORM.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\PracticeCRUD_FORM\obj\Debug\net6.0-windows\PracticeCRUD_FORM.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Emm4/f8rF8ilwvwxufXjys9z1hSy1O6lxhNo8WQbF3qBQ3vhxzSciR8TienPPDJ5ymF+a8H76zvCm15eLtVKA==",
+  "dgSpecHash": "BnoYGccI1HoTRC78WyswBKwCZgqEslNY1ShSdS7NNjpqYwukrmVjgRgtrogSApIgbDvL9coyXEf0k9cnvJ0ALA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PracticeCRUD_FORM\\PracticeCRUD_FORM.csproj",
+  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PracticeCRUD_FORM\\PracticeCRUD_FORM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leeng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

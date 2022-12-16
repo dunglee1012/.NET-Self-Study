@@ -2428,11 +2428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\CRUD_Filter_Search_Form\\CRUD_Filter_Search_Form.csproj",
+      "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\CRUD_Filter_Search_Form\\CRUD_Filter_Search_Form.csproj",
       "projectName": "CRUD_Filter_Search_Form",
-      "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\CRUD_Filter_Search_Form\\CRUD_Filter_Search_Form.csproj",
+      "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\CRUD_Filter_Search_Form\\CRUD_Filter_Search_Form.csproj",
       "packagesPath": "C:\\Users\\leeng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\CRUD_Filter_Search_Form\\obj\\",
+      "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\CRUD_Filter_Search_Form\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

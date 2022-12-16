@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using PracticeWebApp.Models
+@model Product
+
+<div>
+    <form action="/OrderDetail/DoCreate" method="post">
+        <table>
+            <tr>
+                <td>Product Name</td>
+                <td>
+                    <input type="text" name="product.productname" value="@(Model==null?"":Model.ProductName)" />
+                </td>
+            </tr>
+            <tr>
+                <td>Category</td>
+                <td>
+                    <select name="product.categoryId">
+                        @foreach (Category c in ViewBag.Categories)
+                        {
+                            <option value="@c.CategoryId" @((Model != null && Model.CategoryId == c.CategoryId)? "selected":"")>
+                                @c.CategoryName
+                            </option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Supply</td>
+                <td>
+                    <select name="product.supplierid">
+                        @foreach (Supplier s in ViewBag.Suppliers)
+                        {
+                            <option value="@s.SupplierId" @((Model != null && Model.SupplierId == s.SupplierId)? "selected":"")>
+                                @s.CompanyName
+                            </option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Unit Price</td>
+                <td><input type="number" name="product.unitprice" value="@(Model==null?"":Model.UnitPrice)" /></td>
+            </tr>
+            <tr>
+                <td>Discontinued</td>
+                <td>
+                    <input type="checkbox" name="product.discontinued" @((Model != null && Model.Discontinued)? "checked":"")/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Create New" />
+                </td>
+            </tr>
+        </table>
+</div>

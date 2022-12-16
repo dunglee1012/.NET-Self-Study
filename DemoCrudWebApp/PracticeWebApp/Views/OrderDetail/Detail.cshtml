@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using PracticeWebApp.Models
+@model List<OrderDetail> 
+
+<html>
+<body>
+    <h1>Detail Of Orders</h1>
+    @if (Model.Count == 0)
+    {
+        <div>Ko co Order</div>
+    }
+    else
+    {
+        <h3>Order List</h3>
+        <h3>OrderId: @ViewBag.orderId</h3>
+        <h3>Customer: @ViewBag.customerName</h3>
+        <h3>Employee: @ViewBag.employeeName</h3>
+
+        <h5>
+            <a href="/OrderDetail/Create">Add new Product</a>
+        </h5>
+        <table>
+            <tr>
+                <td>Product Id</td>
+                <td>Product Name</td>
+                <td>Quanity</td>
+                <td>Unit Price</td>
+                <td>Action</td>
+                <td>Action 2</td>
+            </tr>
+
+
+            @foreach (OrderDetail od in Model)
+            {
+                <tr>
+                    <td>@od.ProductId</td>
+                    <td>@od.Product.ProductName</td>
+                    <td>@od.Quantity</td>
+                    <td>@od.UnitPrice</td>
+                    <td>
+                        <a href="/OrderDetail/Create/@od.Quantity">Edit Quantity</a>
+                    </td>
+                    <td>
+                        <a href="/OrderDetail/DoDelete/@od.ProductId/@ViewBag.CurCategory">Remove</a>
+                    </td>
+                </tr>
+
+            }
+        </table>
+    }
+
+
+
+
+</body>
+</html>
