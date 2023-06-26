@@ -11,5 +11,13 @@ namespace PracticeCRUD_FORM.Logics
                 return context.Rooms.ToList();
             }
         }
+
+        public Lsit<Course> GetCourse()
+        {
+            using (var context = new APContext())
+            {
+                return context.Courses.ToList();
+            }
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xsPEX+1pQWHarilElt9hxTdpRtu26gLRNoFiTK3f/WZ37rVDuGKng54GwlUpvmk4kK2DyGQFYFLBbj/K7jAm3Q==",
+  "dgSpecHash": "vpWXJ5fhxO+yW+YoR/29Q6MP4rK/eQCfCEGExnyP215dcrrGzXBfWTcTlF7T12H5RodbJLB93qnfERtXfnllbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DataServices\\DataServices.csproj",
+  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DataServices\\DataServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leeng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

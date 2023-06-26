@@ -2381,11 +2381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
+      "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
       "projectName": "DemoAddNN",
-      "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
+      "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
       "packagesPath": "C:\\Users\\leeng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DemoAddNN\\obj\\",
+      "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DemoAddNN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2406,8 +2406,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DataServices\\DataServices.csproj": {
-              "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DataServices\\DataServices.csproj"
+            "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DataServices\\DataServices.csproj": {
+              "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DataServices\\DataServices.csproj"
             }
           }
         }

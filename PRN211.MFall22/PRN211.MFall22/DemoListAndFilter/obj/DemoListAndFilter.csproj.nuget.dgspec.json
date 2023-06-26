@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj": {}
+    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj": {
+    "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj",
+        "projectUniqueName": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj",
         "projectName": "DemoListAndFilter",
-        "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj",
+        "projectPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\DemoListAndFilter.csproj",
         "packagesPath": "C:\\Users\\leeng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\obj\\",
+        "outputPath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\PRN211.MFall22\\PRN211.MFall22\\DemoListAndFilter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

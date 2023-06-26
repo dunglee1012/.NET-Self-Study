@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lZ94GpKXHBOQHvCMwjAMGHnlyEDxfItvxY7YGuZbqOQJcF2Izo48CTFQGDYNvT713nUpLsg4lCAbfP1bWXosfw==",
+  "dgSpecHash": "RMk/wcRWHFgIp7IA1dop3PmkHEPF11mjtcq2DFKDvW5u0pQxHcNktEbVXMGnUHQRWvT/z2dgj9LuW9PHVqXovQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
+  "projectFilePath": "C:\\Users\\leeng\\Documents\\Visual Studio 2022\\AllProject\\PRN211\\.NET-Self-Study\\DemoAddNN\\DemoAddNN\\DemoAddNN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\leeng\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

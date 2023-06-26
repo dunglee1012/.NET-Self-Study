@@ -57,3 +57,13 @@ C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\CRUD_Filter_Search
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.genruntimeconfig.cache
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\ref\CRUD_Filter_Search_Form.dll
 C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\CRUD_Filter_Search_Form\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.csproj.AssemblyReference.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.Form1.resources
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.csproj.GenerateResource.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.AssemblyInfoInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.AssemblyInfo.cs
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.csproj.CoreCompileInputs.cache
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\refint\CRUD_Filter_Search_Form.dll
+C:\Users\leeng\Documents\Visual Studio 2022\AllProject\PRN211\.NET-Self-Study\CRUD_Filter_Search_Form\obj\Debug\net6.0-windows\CRUD_Filter_Search_Form.pdb

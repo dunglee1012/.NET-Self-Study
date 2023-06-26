@@ -71,6 +71,7 @@ namespace PracticeCRUD_FORM
         {
             CourseScheduleManager cs = new CourseScheduleManager();
             cs.AddCourseScedule(GetCourseScheduleInfo());
+            LoadDataForDataGridView();
         }
 
 
